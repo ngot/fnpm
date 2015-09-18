@@ -1,0 +1,19 @@
+#!/usr/bin/env node
+
+/**!
+ * fnpm - bin/fnpm
+ *
+ * Copyright(c) fnpmjs.org and other contributors.
+ * MIT Licensed
+ *
+ * Authors:
+ *  ngot <zhuanghengfei@gmail.com> (http://ngot.me)
+ */
+
+'use strict'
+
+/**
+ * Module dependencies.
+ */
+
+console.log('fnpm ... ')

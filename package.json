@@ -1,10 +1,10 @@
 {
   "name": "fnpm",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "package manager for fibjs.",
+  "bin": "bin/fnpm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,7 @@
   "bugs": {
     "url": "https://github.com/ngot/fnpm/issues"
   },
-  "homepage": "https://github.com/ngot/fnpm#readme"
+  "homepage": "https://github.com/ngot/fnpm#readme",
+  "dependencies": {
+  }
 }
