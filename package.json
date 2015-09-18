@@ -1,0 +1,28 @@
+{
+  "name": "fnpm",
+  "version": "0.0.1",
+  "description": "package manager for fibjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngot/fnpm.git"
+  },
+  "keywords": [
+    "fibjs",
+    "fpm",
+    "fnpm",
+    "npm",
+    "js",
+    "node",
+    "node.js"
+  ],
+  "author": "ngot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngot/fnpm/issues"
+  },
+  "homepage": "https://github.com/ngot/fnpm#readme"
+}
